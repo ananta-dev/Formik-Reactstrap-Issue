@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 20vh;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+.plain-form-container {
+    border: 3px solid #353580;
+    background-color: #eee;
+    height: 30vh;
+    border-radius: 4%;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.plain-form-container form {
+    margin: 2vh 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+}
+
+.plain-form-container form button {
+    margin: 4vh 0 0 0;
+    align-self: center;
+}
